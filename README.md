@@ -1,5 +1,3 @@
-// Here we'll be writing the Documentation of the project for our GitHub Readme.md file
-
 # Terraform AWS Backend with S3 and DynamoDB (State Storage + Locking)
 
 
