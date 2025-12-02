@@ -52,7 +52,7 @@ This protects infrastructure from corruption caused by concurrent updates.
     |
     ├── outputs.tf          # Output To be shown
     |
-    └── README.md           # This File
+    └── README.md           # This File is the you are reading.
 
 
 ---
